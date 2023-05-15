@@ -86,16 +86,3 @@ plt.show()
 
 
 end=input("Press close to exit") 
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
